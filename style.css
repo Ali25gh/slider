@@ -16,7 +16,8 @@ body{
     background-color: #007c86;
 }
 .waviy{
-    padding-left: 50em;
+    padding-left: 45em;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.3);
 }
 .waviy span {
   position: relative;
@@ -44,6 +45,7 @@ body{
   position: relative;
   margin: auto;
   top: 10em;
+  box-shadow: 0 15px 30px rgba(0,0,0,0.3);
 }
 
 /* Caption text */
